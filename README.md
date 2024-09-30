@@ -32,11 +32,3 @@ This project provides implementations for two algorithms:
   python3 algorithm2.py
 - Input: Provide city distances, fuel available at each city, and the car's fuel efficiency (MPG).
 - Output: The index of the preferred starting city.
-
-### **File Descriptions**
-
-- algorithm1.py: Python implementation of Algorithm 1 using unique variable names.
-- algorithm2.py: Python implementation of Algorithm 2 using unique variable names.
-- a1.py: Contains the pseudocode for Algorithm 1.
-- a2.py: Contains the pseudocode for Algorithm 2.
-- README.md: Instructions on running the project.
