@@ -1,4 +1,5 @@
-def minSwapsToCoupleShuffle(peopleRow):
+# Joshua Lopez, Sepehr Nourbakhsh, Lynae Mercado
+def minSwapsToCoupleShuffle(peopleRow): 
     # Function to find the root of the group containing the person
     def locateLeader(person):
         if leader[person] != person:
